@@ -1,0 +1,27 @@
+# Executáveis
+sistema_academico_server
+sistema_academico_client
+*.exe
+*.out
+
+# Arquivos de objeto
+*.o
+build/
+
+# DLLs do Windows
+*.dll
+
+# Arquivos de dados temporários
+*.tmp
+
+# Logs
+*.log
+
+# Arquivos de backup
+*~
+*.swp
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
