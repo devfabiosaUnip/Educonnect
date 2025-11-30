@@ -1,0 +1,3502 @@
+[
+  {
+    "matricula": "20218808",
+    "nome": "Aluno 1 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226363",
+    "nome": "Aluno 2 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20221867",
+    "nome": "Aluno 3 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20248322",
+    "nome": "Aluno 4 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20244435",
+    "nome": "Aluno 5 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20232836",
+    "nome": "Aluno 6 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20227062",
+    "nome": "Aluno 7 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20219200",
+    "nome": "Aluno 8 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20214489",
+    "nome": "Aluno 9 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20247402",
+    "nome": "Aluno 10 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20235583",
+    "nome": "Aluno 11 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20236153",
+    "nome": "Aluno 12 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20206691",
+    "nome": "Aluno 13 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20246591",
+    "nome": "Aluno 14 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20242956",
+    "nome": "Aluno 15 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20244721",
+    "nome": "Aluno 16 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20244935",
+    "nome": "Aluno 17 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20229626",
+    "nome": "Aluno 18 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20216779",
+    "nome": "Aluno 19 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20204044",
+    "nome": "Aluno 20 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20244042",
+    "nome": "Aluno 21 da TURMA1",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20229383",
+    "nome": "Aluno 22 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20236489",
+    "nome": "Aluno 23 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20209025",
+    "nome": "Aluno 24 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20215728",
+    "nome": "Aluno 25 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20232501",
+    "nome": "Aluno 26 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20249647",
+    "nome": "Aluno 27 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20225640",
+    "nome": "Aluno 28 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20238644",
+    "nome": "Aluno 29 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20219018",
+    "nome": "Aluno 30 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20243341",
+    "nome": "Aluno 31 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20246468",
+    "nome": "Aluno 32 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20241653",
+    "nome": "Aluno 33 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20215760",
+    "nome": "Aluno 34 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20218476",
+    "nome": "Aluno 35 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20207988",
+    "nome": "Aluno 36 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20216698",
+    "nome": "Aluno 37 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20248783",
+    "nome": "Aluno 38 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20213925",
+    "nome": "Aluno 39 da TURMA1",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20236187",
+    "nome": "Aluno 40 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20234454",
+    "nome": "Aluno 41 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20235102",
+    "nome": "Aluno 42 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20213325",
+    "nome": "Aluno 43 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20242027",
+    "nome": "Aluno 44 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20222131",
+    "nome": "Aluno 45 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20207377",
+    "nome": "Aluno 46 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20235485",
+    "nome": "Aluno 47 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226088",
+    "nome": "Aluno 48 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20218000",
+    "nome": "Aluno 49 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20233661",
+    "nome": "Aluno 50 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20214105",
+    "nome": "Aluno 51 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20219610",
+    "nome": "Aluno 52 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20232292",
+    "nome": "Aluno 53 da TURMA1",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20245406",
+    "nome": "Aluno 54 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226491",
+    "nome": "Aluno 55 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20205742",
+    "nome": "Aluno 56 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20231251",
+    "nome": "Aluno 57 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20203066",
+    "nome": "Aluno 58 da TURMA1",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20225034",
+    "nome": "Aluno 59 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20225474",
+    "nome": "Aluno 60 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20249153",
+    "nome": "Aluno 61 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20243899",
+    "nome": "Aluno 62 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20216835",
+    "nome": "Aluno 63 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20202586",
+    "nome": "Aluno 64 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20221086",
+    "nome": "Aluno 65 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20221545",
+    "nome": "Aluno 66 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20206189",
+    "nome": "Aluno 67 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20201168",
+    "nome": "Aluno 68 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20206174",
+    "nome": "Aluno 69 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20242168",
+    "nome": "Aluno 70 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20225848",
+    "nome": "Aluno 71 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20228199",
+    "nome": "Aluno 72 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20203225",
+    "nome": "Aluno 73 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20228793",
+    "nome": "Aluno 74 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20218767",
+    "nome": "Aluno 75 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20218615",
+    "nome": "Aluno 76 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20236219",
+    "nome": "Aluno 77 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20241015",
+    "nome": "Aluno 78 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226151",
+    "nome": "Aluno 79 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20201519",
+    "nome": "Aluno 80 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20236783",
+    "nome": "Aluno 81 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20239978",
+    "nome": "Aluno 82 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20228496",
+    "nome": "Aluno 83 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20225638",
+    "nome": "Aluno 84 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20235347",
+    "nome": "Aluno 85 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20238943",
+    "nome": "Aluno 86 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20202079",
+    "nome": "Aluno 87 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20244702",
+    "nome": "Aluno 88 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20203555",
+    "nome": "Aluno 89 da TURMA1",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20201652",
+    "nome": "Aluno 90 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20228978",
+    "nome": "Aluno 91 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20239496",
+    "nome": "Aluno 92 da TURMA1",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226398",
+    "nome": "Aluno 93 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20218143",
+    "nome": "Aluno 94 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20228982",
+    "nome": "Aluno 95 da TURMA1",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20212397",
+    "nome": "Aluno 96 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20217313",
+    "nome": "Aluno 97 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20238985",
+    "nome": "Aluno 98 da TURMA1",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20226484",
+    "nome": "Aluno 99 da TURMA1",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20231317",
+    "nome": "Aluno 100 da TURMA1",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA1"
+  },
+  {
+    "matricula": "20245786",
+    "nome": "Aluno 1 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20214400",
+    "nome": "Aluno 2 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20206676",
+    "nome": "Aluno 3 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20215273",
+    "nome": "Aluno 4 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20218412",
+    "nome": "Aluno 5 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20221459",
+    "nome": "Aluno 6 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20203583",
+    "nome": "Aluno 7 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20218809",
+    "nome": "Aluno 8 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20233785",
+    "nome": "Aluno 9 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20243267",
+    "nome": "Aluno 10 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20247277",
+    "nome": "Aluno 11 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20203272",
+    "nome": "Aluno 12 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20213093",
+    "nome": "Aluno 13 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20211699",
+    "nome": "Aluno 14 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20207414",
+    "nome": "Aluno 15 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20247883",
+    "nome": "Aluno 16 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20233105",
+    "nome": "Aluno 17 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20205596",
+    "nome": "Aluno 18 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20244070",
+    "nome": "Aluno 19 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20221396",
+    "nome": "Aluno 20 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20227961",
+    "nome": "Aluno 21 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20229238",
+    "nome": "Aluno 22 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20216538",
+    "nome": "Aluno 23 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20207238",
+    "nome": "Aluno 24 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20212718",
+    "nome": "Aluno 25 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20214377",
+    "nome": "Aluno 26 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20234311",
+    "nome": "Aluno 27 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20217549",
+    "nome": "Aluno 28 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20221648",
+    "nome": "Aluno 29 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20246503",
+    "nome": "Aluno 30 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20225007",
+    "nome": "Aluno 31 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20244302",
+    "nome": "Aluno 32 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20246092",
+    "nome": "Aluno 33 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20219699",
+    "nome": "Aluno 34 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20237182",
+    "nome": "Aluno 35 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20202743",
+    "nome": "Aluno 36 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20247019",
+    "nome": "Aluno 37 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20234618",
+    "nome": "Aluno 38 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20209108",
+    "nome": "Aluno 39 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20227917",
+    "nome": "Aluno 40 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20213663",
+    "nome": "Aluno 41 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20203217",
+    "nome": "Aluno 42 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20249320",
+    "nome": "Aluno 43 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20206826",
+    "nome": "Aluno 44 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20244705",
+    "nome": "Aluno 45 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20236373",
+    "nome": "Aluno 46 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20242561",
+    "nome": "Aluno 47 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20216486",
+    "nome": "Aluno 48 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20234504",
+    "nome": "Aluno 49 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20204685",
+    "nome": "Aluno 50 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20249881",
+    "nome": "Aluno 51 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20217953",
+    "nome": "Aluno 52 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20237951",
+    "nome": "Aluno 53 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20217161",
+    "nome": "Aluno 54 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20218567",
+    "nome": "Aluno 55 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20215296",
+    "nome": "Aluno 56 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20244242",
+    "nome": "Aluno 57 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20248830",
+    "nome": "Aluno 58 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20239434",
+    "nome": "Aluno 59 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20222930",
+    "nome": "Aluno 60 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20247866",
+    "nome": "Aluno 61 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20246581",
+    "nome": "Aluno 62 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20239459",
+    "nome": "Aluno 63 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20249390",
+    "nome": "Aluno 64 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20202969",
+    "nome": "Aluno 65 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20222910",
+    "nome": "Aluno 66 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20219389",
+    "nome": "Aluno 67 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20249761",
+    "nome": "Aluno 68 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20233249",
+    "nome": "Aluno 69 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20248740",
+    "nome": "Aluno 70 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20221773",
+    "nome": "Aluno 71 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20247787",
+    "nome": "Aluno 72 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20248817",
+    "nome": "Aluno 73 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20213604",
+    "nome": "Aluno 74 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20219733",
+    "nome": "Aluno 75 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20228532",
+    "nome": "Aluno 76 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20239202",
+    "nome": "Aluno 77 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20227126",
+    "nome": "Aluno 78 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20234854",
+    "nome": "Aluno 79 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20216882",
+    "nome": "Aluno 80 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20245888",
+    "nome": "Aluno 81 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20209191",
+    "nome": "Aluno 82 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20204632",
+    "nome": "Aluno 83 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20224121",
+    "nome": "Aluno 84 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20209597",
+    "nome": "Aluno 85 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20205284",
+    "nome": "Aluno 86 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20235766",
+    "nome": "Aluno 87 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20248527",
+    "nome": "Aluno 88 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20238543",
+    "nome": "Aluno 89 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20236949",
+    "nome": "Aluno 90 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20249806",
+    "nome": "Aluno 91 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20229592",
+    "nome": "Aluno 92 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20243579",
+    "nome": "Aluno 93 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20217814",
+    "nome": "Aluno 94 da TURMA2",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20215902",
+    "nome": "Aluno 95 da TURMA2",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20218942",
+    "nome": "Aluno 96 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20216106",
+    "nome": "Aluno 97 da TURMA2",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20205888",
+    "nome": "Aluno 98 da TURMA2",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20227215",
+    "nome": "Aluno 99 da TURMA2",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20204925",
+    "nome": "Aluno 100 da TURMA2",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA2"
+  },
+  {
+    "matricula": "20204975",
+    "nome": "Aluno 1 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20244797",
+    "nome": "Aluno 2 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20201349",
+    "nome": "Aluno 3 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20208410",
+    "nome": "Aluno 4 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20205787",
+    "nome": "Aluno 5 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20245792",
+    "nome": "Aluno 6 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20215375",
+    "nome": "Aluno 7 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20211588",
+    "nome": "Aluno 8 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20222241",
+    "nome": "Aluno 9 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20212319",
+    "nome": "Aluno 10 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20224921",
+    "nome": "Aluno 11 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20205683",
+    "nome": "Aluno 12 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20217850",
+    "nome": "Aluno 13 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20243248",
+    "nome": "Aluno 14 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20245293",
+    "nome": "Aluno 15 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20245569",
+    "nome": "Aluno 16 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20214566",
+    "nome": "Aluno 17 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20245686",
+    "nome": "Aluno 18 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20248720",
+    "nome": "Aluno 19 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20201592",
+    "nome": "Aluno 20 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20238063",
+    "nome": "Aluno 21 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20225299",
+    "nome": "Aluno 22 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20248229",
+    "nome": "Aluno 23 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20201944",
+    "nome": "Aluno 24 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20224891",
+    "nome": "Aluno 25 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20204284",
+    "nome": "Aluno 26 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20247991",
+    "nome": "Aluno 27 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20204212",
+    "nome": "Aluno 28 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20232114",
+    "nome": "Aluno 29 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20235804",
+    "nome": "Aluno 30 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20208266",
+    "nome": "Aluno 31 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20208881",
+    "nome": "Aluno 32 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20212769",
+    "nome": "Aluno 33 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20241541",
+    "nome": "Aluno 34 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20205855",
+    "nome": "Aluno 35 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20241888",
+    "nome": "Aluno 36 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20238122",
+    "nome": "Aluno 37 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20243659",
+    "nome": "Aluno 38 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20247804",
+    "nome": "Aluno 39 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20243898",
+    "nome": "Aluno 40 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20218498",
+    "nome": "Aluno 41 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20247190",
+    "nome": "Aluno 42 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20226886",
+    "nome": "Aluno 43 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20224653",
+    "nome": "Aluno 44 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20206306",
+    "nome": "Aluno 45 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20227912",
+    "nome": "Aluno 46 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20242440",
+    "nome": "Aluno 47 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20228952",
+    "nome": "Aluno 48 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20216811",
+    "nome": "Aluno 49 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20241852",
+    "nome": "Aluno 50 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20235419",
+    "nome": "Aluno 51 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20229166",
+    "nome": "Aluno 52 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20225313",
+    "nome": "Aluno 53 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20227494",
+    "nome": "Aluno 54 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20233632",
+    "nome": "Aluno 55 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20209837",
+    "nome": "Aluno 56 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20211582",
+    "nome": "Aluno 57 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20219790",
+    "nome": "Aluno 58 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20223219",
+    "nome": "Aluno 59 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20246692",
+    "nome": "Aluno 60 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20236745",
+    "nome": "Aluno 61 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20245630",
+    "nome": "Aluno 62 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20227251",
+    "nome": "Aluno 63 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20248194",
+    "nome": "Aluno 64 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20246807",
+    "nome": "Aluno 65 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20209932",
+    "nome": "Aluno 66 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20227469",
+    "nome": "Aluno 67 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20219637",
+    "nome": "Aluno 68 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20205120",
+    "nome": "Aluno 69 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20244119",
+    "nome": "Aluno 70 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20223088",
+    "nome": "Aluno 71 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20228951",
+    "nome": "Aluno 72 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20204893",
+    "nome": "Aluno 73 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20237097",
+    "nome": "Aluno 74 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20249152",
+    "nome": "Aluno 75 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20229699",
+    "nome": "Aluno 76 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20224267",
+    "nome": "Aluno 77 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20217907",
+    "nome": "Aluno 78 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20219669",
+    "nome": "Aluno 79 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20236308",
+    "nome": "Aluno 80 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20235061",
+    "nome": "Aluno 81 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20237392",
+    "nome": "Aluno 82 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20236348",
+    "nome": "Aluno 83 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20218478",
+    "nome": "Aluno 84 da TURMA3",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20203629",
+    "nome": "Aluno 85 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20204911",
+    "nome": "Aluno 86 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20234214",
+    "nome": "Aluno 87 da TURMA3",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20229977",
+    "nome": "Aluno 88 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20209752",
+    "nome": "Aluno 89 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20205144",
+    "nome": "Aluno 90 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20216234",
+    "nome": "Aluno 91 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20227766",
+    "nome": "Aluno 92 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20201206",
+    "nome": "Aluno 93 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20248728",
+    "nome": "Aluno 94 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20246905",
+    "nome": "Aluno 95 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20244565",
+    "nome": "Aluno 96 da TURMA3",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20238177",
+    "nome": "Aluno 97 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20201119",
+    "nome": "Aluno 98 da TURMA3",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20235228",
+    "nome": "Aluno 99 da TURMA3",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20229751",
+    "nome": "Aluno 100 da TURMA3",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA3"
+  },
+  {
+    "matricula": "20213265",
+    "nome": "Aluno 1 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20227103",
+    "nome": "Aluno 2 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224889",
+    "nome": "Aluno 3 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20214048",
+    "nome": "Aluno 4 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20203866",
+    "nome": "Aluno 5 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20222644",
+    "nome": "Aluno 6 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20216898",
+    "nome": "Aluno 7 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20247455",
+    "nome": "Aluno 8 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20204269",
+    "nome": "Aluno 9 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20209188",
+    "nome": "Aluno 10 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20239032",
+    "nome": "Aluno 11 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20233196",
+    "nome": "Aluno 12 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20239677",
+    "nome": "Aluno 13 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20207806",
+    "nome": "Aluno 14 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20246834",
+    "nome": "Aluno 15 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20206423",
+    "nome": "Aluno 16 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20245319",
+    "nome": "Aluno 17 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20204147",
+    "nome": "Aluno 18 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20211092",
+    "nome": "Aluno 19 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20231638",
+    "nome": "Aluno 20 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20203904",
+    "nome": "Aluno 21 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20242225",
+    "nome": "Aluno 22 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20231624",
+    "nome": "Aluno 23 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20236679",
+    "nome": "Aluno 24 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20208269",
+    "nome": "Aluno 25 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20231931",
+    "nome": "Aluno 26 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20211341",
+    "nome": "Aluno 27 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20214253",
+    "nome": "Aluno 28 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20215398",
+    "nome": "Aluno 29 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224679",
+    "nome": "Aluno 30 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20209874",
+    "nome": "Aluno 31 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20206919",
+    "nome": "Aluno 32 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20204219",
+    "nome": "Aluno 33 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20208435",
+    "nome": "Aluno 34 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20233388",
+    "nome": "Aluno 35 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20247477",
+    "nome": "Aluno 36 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20245003",
+    "nome": "Aluno 37 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20204377",
+    "nome": "Aluno 38 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20227856",
+    "nome": "Aluno 39 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20223089",
+    "nome": "Aluno 40 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20217995",
+    "nome": "Aluno 41 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20218502",
+    "nome": "Aluno 42 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20238087",
+    "nome": "Aluno 43 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20231856",
+    "nome": "Aluno 44 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20226574",
+    "nome": "Aluno 45 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20213497",
+    "nome": "Aluno 46 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20203845",
+    "nome": "Aluno 47 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20202370",
+    "nome": "Aluno 48 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20205560",
+    "nome": "Aluno 49 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20205592",
+    "nome": "Aluno 50 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20217731",
+    "nome": "Aluno 51 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20202485",
+    "nome": "Aluno 52 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20235443",
+    "nome": "Aluno 53 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20226480",
+    "nome": "Aluno 54 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224531",
+    "nome": "Aluno 55 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20244827",
+    "nome": "Aluno 56 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20233587",
+    "nome": "Aluno 57 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20243939",
+    "nome": "Aluno 58 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20213650",
+    "nome": "Aluno 59 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20218568",
+    "nome": "Aluno 60 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224474",
+    "nome": "Aluno 61 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20212629",
+    "nome": "Aluno 62 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20219809",
+    "nome": "Aluno 63 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20212095",
+    "nome": "Aluno 64 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20237307",
+    "nome": "Aluno 65 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20209037",
+    "nome": "Aluno 66 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224914",
+    "nome": "Aluno 67 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20226024",
+    "nome": "Aluno 68 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20234470",
+    "nome": "Aluno 69 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20243917",
+    "nome": "Aluno 70 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20218193",
+    "nome": "Aluno 71 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20236356",
+    "nome": "Aluno 72 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20202707",
+    "nome": "Aluno 73 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20241938",
+    "nome": "Aluno 74 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224148",
+    "nome": "Aluno 75 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20242527",
+    "nome": "Aluno 76 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20204626",
+    "nome": "Aluno 77 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20239781",
+    "nome": "Aluno 78 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20239971",
+    "nome": "Aluno 79 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20205493",
+    "nome": "Aluno 80 da TURMA4",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20218004",
+    "nome": "Aluno 81 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20231965",
+    "nome": "Aluno 82 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20236077",
+    "nome": "Aluno 83 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20216080",
+    "nome": "Aluno 84 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20208370",
+    "nome": "Aluno 85 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20214073",
+    "nome": "Aluno 86 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20237408",
+    "nome": "Aluno 87 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20233477",
+    "nome": "Aluno 88 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20227575",
+    "nome": "Aluno 89 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20203398",
+    "nome": "Aluno 90 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20209676",
+    "nome": "Aluno 91 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20239544",
+    "nome": "Aluno 92 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20207364",
+    "nome": "Aluno 93 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20226501",
+    "nome": "Aluno 94 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20227095",
+    "nome": "Aluno 95 da TURMA4",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224792",
+    "nome": "Aluno 96 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20224764",
+    "nome": "Aluno 97 da TURMA4",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20213480",
+    "nome": "Aluno 98 da TURMA4",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20208297",
+    "nome": "Aluno 99 da TURMA4",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20233788",
+    "nome": "Aluno 100 da TURMA4",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA4"
+  },
+  {
+    "matricula": "20216639",
+    "nome": "Aluno 1 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20234285",
+    "nome": "Aluno 2 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20239729",
+    "nome": "Aluno 3 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20218134",
+    "nome": "Aluno 4 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20206654",
+    "nome": "Aluno 5 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20235475",
+    "nome": "Aluno 6 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20215798",
+    "nome": "Aluno 7 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20223435",
+    "nome": "Aluno 8 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20236651",
+    "nome": "Aluno 9 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20217747",
+    "nome": "Aluno 10 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20207091",
+    "nome": "Aluno 11 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20221162",
+    "nome": "Aluno 12 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20213834",
+    "nome": "Aluno 13 da TURMA5",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20245178",
+    "nome": "Aluno 14 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20215635",
+    "nome": "Aluno 15 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20244323",
+    "nome": "Aluno 16 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229961",
+    "nome": "Aluno 17 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20237020",
+    "nome": "Aluno 18 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20238661",
+    "nome": "Aluno 19 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20215408",
+    "nome": "Aluno 20 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20223276",
+    "nome": "Aluno 21 da TURMA5",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20208336",
+    "nome": "Aluno 22 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20227137",
+    "nome": "Aluno 23 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20244061",
+    "nome": "Aluno 24 da TURMA5",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20235451",
+    "nome": "Aluno 25 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20211780",
+    "nome": "Aluno 26 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20239845",
+    "nome": "Aluno 27 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20219641",
+    "nome": "Aluno 28 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20233680",
+    "nome": "Aluno 29 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20237110",
+    "nome": "Aluno 30 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20204374",
+    "nome": "Aluno 31 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20206917",
+    "nome": "Aluno 32 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20228658",
+    "nome": "Aluno 33 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20234925",
+    "nome": "Aluno 34 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229903",
+    "nome": "Aluno 35 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20233685",
+    "nome": "Aluno 36 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229476",
+    "nome": "Aluno 37 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20205226",
+    "nome": "Aluno 38 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20208485",
+    "nome": "Aluno 39 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20246238",
+    "nome": "Aluno 40 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20208772",
+    "nome": "Aluno 41 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20209235",
+    "nome": "Aluno 42 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20219725",
+    "nome": "Aluno 43 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20246962",
+    "nome": "Aluno 44 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229260",
+    "nome": "Aluno 45 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20247694",
+    "nome": "Aluno 46 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20219883",
+    "nome": "Aluno 47 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20246427",
+    "nome": "Aluno 48 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20208817",
+    "nome": "Aluno 49 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20222268",
+    "nome": "Aluno 50 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20212699",
+    "nome": "Aluno 51 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20217717",
+    "nome": "Aluno 52 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20222177",
+    "nome": "Aluno 53 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20239891",
+    "nome": "Aluno 54 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20248097",
+    "nome": "Aluno 55 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20204942",
+    "nome": "Aluno 56 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20202999",
+    "nome": "Aluno 57 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229668",
+    "nome": "Aluno 58 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20237332",
+    "nome": "Aluno 59 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20242617",
+    "nome": "Aluno 60 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20211673",
+    "nome": "Aluno 61 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20248800",
+    "nome": "Aluno 62 da TURMA5",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20248656",
+    "nome": "Aluno 63 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20245501",
+    "nome": "Aluno 64 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20213663",
+    "nome": "Aluno 65 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20221458",
+    "nome": "Aluno 66 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229691",
+    "nome": "Aluno 67 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20234344",
+    "nome": "Aluno 68 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20226645",
+    "nome": "Aluno 69 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20235954",
+    "nome": "Aluno 70 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20225879",
+    "nome": "Aluno 71 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20205900",
+    "nome": "Aluno 72 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20217564",
+    "nome": "Aluno 73 da TURMA5",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20206254",
+    "nome": "Aluno 74 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20205840",
+    "nome": "Aluno 75 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20238277",
+    "nome": "Aluno 76 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20234513",
+    "nome": "Aluno 77 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20207122",
+    "nome": "Aluno 78 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20224978",
+    "nome": "Aluno 79 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20238946",
+    "nome": "Aluno 80 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20246020",
+    "nome": "Aluno 81 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20216009",
+    "nome": "Aluno 82 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20205166",
+    "nome": "Aluno 83 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20231266",
+    "nome": "Aluno 84 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20237631",
+    "nome": "Aluno 85 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20219257",
+    "nome": "Aluno 86 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20218388",
+    "nome": "Aluno 87 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20232143",
+    "nome": "Aluno 88 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20206507",
+    "nome": "Aluno 89 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20243575",
+    "nome": "Aluno 90 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20247669",
+    "nome": "Aluno 91 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "inativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20222662",
+    "nome": "Aluno 92 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20223991",
+    "nome": "Aluno 93 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20229163",
+    "nome": "Aluno 94 da TURMA5",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20223259",
+    "nome": "Aluno 95 da TURMA5",
+    "curso": "Redes de Computadores",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20214563",
+    "nome": "Aluno 96 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20234097",
+    "nome": "Aluno 97 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20248093",
+    "nome": "Aluno 98 da TURMA5",
+    "curso": "Design Digital",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20242102",
+    "nome": "Aluno 99 da TURMA5",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  },
+  {
+    "matricula": "20239024",
+    "nome": "Aluno 100 da TURMA5",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TURMA5"
+  }
+]

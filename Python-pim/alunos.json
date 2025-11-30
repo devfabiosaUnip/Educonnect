@@ -1,0 +1,30 @@
+[
+  {
+    "matricula": "2023001",
+    "nome": "Maria Silva",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TADS1"
+  },
+  {
+    "matricula": "2023002",
+    "nome": "João Souza",
+    "curso": "Ciência da Computação",
+    "status": "ativo",
+    "turma_id": "TADS1"
+  },
+  {
+    "matricula": "2023003",
+    "nome": "Ana Paula",
+    "curso": "Design Digital",
+    "status": "inativo",
+    "turma_id": "TADS2"
+  },
+  {
+    "matricula": "2023004",
+    "nome": "Pedro Santos",
+    "curso": "Engenharia de Software",
+    "status": "ativo",
+    "turma_id": "TADS1"
+  }
+]

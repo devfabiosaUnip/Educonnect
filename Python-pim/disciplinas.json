@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Programação I",
+    "descricao": "Introdução aos conceitos fundamentais de programação, lógica e algoritmos usando Python. O curso aborda estruturas de dados básicas e controle de fluxo."
+  },
+  {
+    "nome": "Banco de Dados",
+    "descricao": "Estudo de sistemas de gerenciamento de banco de dados (SGBD), modelagem de dados, SQL e otimização de consultas. Foco em bancos de dados relacionais."
+  },
+  {
+    "nome": "Redes de Computadores",
+    "descricao": "Fundamentos de redes de computadores, protocolos de comunicação, arquitetura TCP/IP e segurança de redes. Aulas práticas com configuração de redes."
+  },
+  {
+    "nome": "Engenharia de Software",
+    "descricao": "Processos de desenvolvimento de software, metodologias ágeis, testes de software e engenharia de requisitos. O objetivo é a produção de software de qualidade."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "turm_id": "T1",
+    "alunos_notas": [
+      {
+        "aluno_id": "A1",
+        "nota": 7.5
+      },
+      {
+        "aluno_id": "A2",
+        "nota": 8.0
+      },
+      {
+        "aluno_id": "A3",
+        "nota": 6.0
+      }
+    ]
+  },
+  {
+    "turm_id": "T2",
+    "alunos_notas": [
+      {
+        "aluno_id": "A4",
+        "nota": 9.0
+      },
+      {
+        "aluno_id": "A5",
+        "nota": 7.0
+      }
+    ]
+  }
+]
